@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hike Search</string>
+    <string name="search_text">Search Here
+    </string>
+</resources>
